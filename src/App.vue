@@ -1,4 +1,5 @@
 <script setup lang="ts">
+
 import { darkTheme } from 'naive-ui'
 import { useAppStore } from './store'
 import { naiveI18nOptions } from '@/utils'
